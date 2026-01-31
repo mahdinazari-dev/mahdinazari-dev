@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm Mahdi Nazari
 
-<!--
-**mahdinazari-dev/mahdinazari-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Aspiring Machine Learning Engineer 🤖**  
+**Python Developer 🐍** passionate about **Data Science 📊** and **AI 💡**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech & Tools  
+🔹 **Python** | **Scikit-learn** | **TensorFlow** | **Keras**  
+🔹 **Pandas** | **NumPy** | **Matplotlib** | **Seaborn**  
+🔹 **Machine Learning** | **Deep Learning** | **Natural Language Processing (NLP)**
+
+---
+
+### 🚀 Current Focus  
+📌 Building predictive models and data‑driven solutions  
+📌 Practicing real‑world ML workflows  
+📌 Improving skills in **AI**, **Deep Learning**, and **Data Engineering**
+
+---
+
+### 📫 Contact  
+📧 Email: *nazarimahdi@zohomail.com*  
