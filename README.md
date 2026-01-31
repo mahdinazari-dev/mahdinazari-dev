@@ -24,4 +24,4 @@
 
 ---
 
-[![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=mahdinazari-dev)](https://github.com/Pranesh-2005/github-readme-stats-fast)
+[![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=mahdinazari-dev&show_icons=true)](https://github.com/Pranesh-2005/github-readme-stats-fast)
