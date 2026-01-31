@@ -24,4 +24,5 @@
 
 ---
 
-[![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=mahdinazari-dev)](https://github.com/Pranesh-2005/github-readme-stats-fast)
+![Contribution Snake](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
+
