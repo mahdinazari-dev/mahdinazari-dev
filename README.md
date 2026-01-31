@@ -24,4 +24,4 @@
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mahdinazari-dev&show_icons=true&count_private=true&hide_title=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahdinazari-dev&show_icons=true&count_private=true&theme=radical)
